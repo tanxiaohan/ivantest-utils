@@ -11,5 +11,5 @@
 
     <artifactId>ivantest-utils</artifactId>
 
-
+    <description>ivantest-utils</description>
 </project>
