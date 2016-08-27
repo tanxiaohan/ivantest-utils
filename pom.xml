@@ -12,4 +12,7 @@
     <artifactId>ivantest-utils</artifactId>
 
     <description>ivantest-utils</description>
+    <dependencies>
+        
+    </dependencies>
 </project>
