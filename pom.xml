@@ -12,4 +12,11 @@
     <artifactId>ivantest-utils</artifactId>
 
     <description>ivantest-utils</description>
+    <dependencies>
+        <dependency>
+            <groupId>commons-logging</groupId>
+            <artifactId>commons-logging</artifactId>
+            <version>1.2</version>
+        </dependency>
+    </dependencies>
 </project>
